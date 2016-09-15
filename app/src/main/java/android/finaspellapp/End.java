@@ -8,6 +8,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 //Created by Vusi Ngwenya
 //The final activity
+//New Changes
 public class End extends AppCompatActivity {
 
     @Override
