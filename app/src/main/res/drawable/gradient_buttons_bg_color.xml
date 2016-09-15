@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- The styling for the gradient on the final activity of the app -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The item -->
+    <item>
+        <!-- The shape -->
+        <shape>
+            <!-- The gradient for displaying different colors on the final activity -->
+            <!-- <gradient
+                 android:angle="90"
+                 android:startColor="#282828"
+                 android:centerColor="#cbc9c9"
+                 android:endColor="#555454"
+                 android:type="linear"/> -->
+
+            <gradient
+                android:angle="90"
+                android:startColor="#3d3c3c"
+                android:centerColor="#1b1b1b"
+                android:endColor="#4b4a4a"
+                android:type="linear"/>
+        </shape>
+    </item>
+</selector>

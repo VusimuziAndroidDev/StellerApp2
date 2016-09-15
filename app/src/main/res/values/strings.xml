@@ -1,0 +1,11 @@
+<!-- The string resources file for holding string variables to be used on the layouts -->
+<resources>
+    <string name="app_name"></string>
+    <string name="action_settings">Next Page</string>
+    <string name="title_activity_hyperlapse"></string>
+    <string name="title_activity_end">End</string>
+    <string name="title_activity_select">select</string>
+    <string name="title_activity_sign_in_screen">SignInScreen</string>
+    <string name="title_activity_sign_up_screen">SignUpScreen</string>
+    <string name="title_activity_home">Home</string>
+</resources>
